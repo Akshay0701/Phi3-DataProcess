@@ -1,0 +1,17 @@
+[
+    {
+        "id": "000000009632",
+        "image": "000000009632.png",
+        "captions": "Dynamic Mechanical Analysis (DMA). Figure 10 shows the storage modulus (E') and tan & versus temperature curves obtained from the DMA experiment. The storage modulus increases with the increase of AHP loading. The addition of 10 wt % AHP results in a 236% increase in the storage modulus at 25 \u00b0C and a 431% increase at 80 \u00b0C, indicating the improved rigidity of the FR-PLA composites, which may be because AHP As can be observed from Figure 10b, the tan 8 of pure PLA Figure 10. Storage modulus and tan & curves of PLA and FR-PLA composites from DMA testing."
+    },
+    {
+        "id": "000000009633",
+        "image": "000000009633.png",
+        "captions": "Thermal Degradation Process. The thermal degradation process of pure PLA and PLA/30AHP is characterized by realtime FTIR. Figure 11a shows the decomposition process of pure PLA. The peak at 1750 cm-1 corresponding to the C=O Figure 11b shows the thermal decomposition process of the PLA/30AHP composite. It can be seen that three new peaks appear at room temperature compared to that of pure PLA: the peak at 2400 cm-1 corresponds to the stretching vibration of the P-H bond, the medium intensity peak at 817 cm-1 is assigned to the rocking mode of PH2 and the weak peak at 484 cm-1 corresponds to Al-O bond stretch modes.30 The intensity of these three peaks has a significant reduction at 310 \u00b0C, indicating that AHP begins to decompose at this temperature, which is consistent with the TGA results. With the temperature further increasing, the intensity of the peak at 1750 cm-1 ascribed to the C=O bond reduces and disappears until 350 \u00b0C. The decrease of the C=O bond is probably due to the formation of an O=C-O-P=O bond and unsaturated ester.2 The bands at 1080 and 1180 cm-1 are ascribed to the bending vibration of PH2 and the stretching vibration of the PO2 bond, respectively. When the temperature rises to 350 \u2103, these bands nearly disappear, meaning that the FR-PLA composite decomposes completely. At higher temperature (>350 \u2103), a new peak assigned to the stretching vibration of the P-O-P Figure 11. RT-FTIR spectra for the degradation process of pure PLA and PLA/30AHP at different temperatures."
+    },
+    {
+        "id": "000000009634",
+        "image": "000000009634.png",
+        "captions": "bond appears around 1100 cm-1, suggesting the formation of Al4(P2O7)3.16 Morphology of the Char. Figure 12 gives SEM images of char residue of the PLA/30AHP composite. Figure 12a displays a continuous char layer with some holes dispersed on the bond appears around 1100 cm-1, suggesting the formation of Al4(P2O7)3.16 Morphology of the Char. Figure 12 gives SEM images of char residue of the PLA/30AHP composite. Figure 12a displays a continuous char layer with some holes dispersed on the Figure 12. SEM images of residues from FR-PLA composites after LOI tests: (a) PLA/30AHP, 300x magnification; (b) PLA/30AHP, 2000\u00d7 surface in the low magnification image. When observed in the high magnification photo (Figure 12b), the char residue is compact and some craterlike structure is observed which may be resulted from the gas products degraded from aluminum hypophosphite."
+    }
+]
